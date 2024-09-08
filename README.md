@@ -4,7 +4,7 @@
 
 <p style="font-size: 8">🌍  I'm based in Germany. </br>
 ✉️  You can contact me at hingukhyati@gmail.com </br>
-📚  I'm currently pursing Masters in Computer Engineering at Paderborn University.</p>
+📚  I'm currently pursing Masters in Computer Science at Paderborn University.</p>
 
 <br>
 <h3>Skills</h3>
